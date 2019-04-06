@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "big.js": "^5.2.2",
+    "chai": "^4.2.0",
+    "github-fork-ribbon-css": "^0.2.1",
+    "prop-types": "latest",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"

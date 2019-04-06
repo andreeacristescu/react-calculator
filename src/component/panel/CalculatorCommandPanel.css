@@ -1,0 +1,6 @@
+.component-calculator-command-panel {
+}
+
+.component-calculator-command-panel > div {
+    width: 100%;
+}
